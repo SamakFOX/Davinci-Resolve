@@ -34,11 +34,12 @@
 
 &nbsp;
 ### ◆ 기초 사용법
-#### Studio 18버전으로 작성되었습니다.
+#### * Studio 18버전으로 작성되었습니다.
 
 ▶ Resolve & 프로젝트 설정  
 &nbsp;&nbsp; - 기본적으로 UI,프로젝트,소스에는 <mark>영어와 하이픈,언더바</mark> 위주로 사용하는 것이 좋습니다.  
 &nbsp;&nbsp;&nbsp;&nbsp; (오류 방지, 해외 튜토리얼 습득 등 여러 사유, 특히 MAC의 경우 공백도 기호로 인식하므로 필수)  
+
 ★ 설정  
 &nbsp;&nbsp; - 설정은 `User`와 `System`으로 나뉨  
 &nbsp;&nbsp; - User : 
