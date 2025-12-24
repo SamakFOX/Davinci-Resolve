@@ -44,10 +44,12 @@
 &nbsp;&nbsp; - 설정은 `User`와 `System`으로 나뉨  
 &nbsp;&nbsp; - User : 사용자 편의와 관련된 설정  
 &nbsp;&nbsp; - System : 다빈치 전반에 대한 설정  
+&nbsp;&nbsp; ☆ 설정 변경 시 다빈치 재실행을 해야 정상적으로 적용됨  
 <table>
   <tr><td align="center">User 설정</td></tr>
-  <tr><td align="center"><img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings1.png" width="600"><br><em> '설정' 내 'UI'탭 </em></td></tr>
-  <tr><td align="center"><img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings2.png" width="600"><br><em> '설정' 내 'Save and Load'탭 </em></td></tr>
+  <tr><td align="center"><img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings1.png"><br><em> '설정' 내 'UI'탭 </em></td></tr>
+  <tr><td align="center"><img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings2.png"><br><em> '설정' 내 'Save and Load'탭 </em></td></tr>
+  <tr><td align="center"><img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings2-1.png"><br><em> 백업 활성화 시 백업프로젝트 로드 방법 </em></td></tr>
 </table>
 <table>
   <tr><td align="center">System 설정</td></tr>
@@ -74,12 +76,21 @@
 &nbsp;&nbsp; : 영상제작 전체 워크플로를 단계별로 구분해두어, 기능별 페이지 이동으로 쉽게 작업할 수 있도록 도와주는 하단 탭  
 <table>
   <tr><td align="center">
-    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Pages.png" width="600"><br>
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Pages.png"><br>
     <em> 하단 페이지 탭 리스트<br><mark>이미지 : BlackmagicDesign Homepage</mark> </em>
   </td></tr>
 </table>
 
-**03. ㅇㅇ**
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-&nbsp;&nbsp;
+**02-1. Media (미디어 페이지)**  
+&nbsp;&nbsp; - 푸티지 인풋과 관리  
+&nbsp;&nbsp; - 미디어풀 내에서 폴더를 통한 관리  
+&nbsp;&nbsp; - 메타데이터 확인  
+&nbsp;&nbsp; - 푸티지 재생 및 점검  
+<table>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Page_Media.png"><br>
+    <em> 미디어 페이지 레이아웃</em>
+  </td></tr>
+</table>
+
+02-2. 
