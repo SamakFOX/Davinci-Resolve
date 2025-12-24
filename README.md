@@ -60,8 +60,12 @@
 </table>
 
 ▶ 프로젝트 생성  
-&nbsp;&nbsp; - 다빈치리졸브 실행 시 초기메뉴로 **프로젝트 윈도우**가 뜸  
-&nbsp;&nbsp; - New Project 버튼 클릭하여 새 프로젝트 생성 (되도록 영어로 작성)  
+**01. Project Manager (프로젝트 매니저)**  
+&nbsp;&nbsp; : 다빈치리졸브 실행 시 초기메뉴로 프로젝트 매니저가 뜸  
+&nbsp;&nbsp; - 개인 작업인 경우 보통 `Local`(로컬)에서 선택하나, 팀 작업인 경우 `Network`(네트워크)나 `Cloud`(클라우드)를 통해 선택하게 됨 (Studio 기능)  
+&nbsp;&nbsp; - `New Project` : 새 프로젝트 생성 (되도록 영어로 작성)  
+&nbsp;&nbsp; - `New Folder`(아이콘) : 새 프로젝트폴더 생성 (되도록 영어로 작성)  
+&nbsp;&nbsp; - `Import/Export` : DRP(Davinci Resolve Project) 파일로 프로젝트 불러오기/내보내기  
 <table>
   <tr>
     <td align="center">
@@ -70,3 +74,19 @@
     </td>
   </tr>
 </table>
+
+**02. Pages Tabs (페이지 탭)**  
+&nbsp;&nbsp; : 영상제작 전체 워크플로를 단계별로 구분해두어, 기능별 페이지 이동으로 쉽게 작업할 수 있도록 도와주는 하단 탭  
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Pages.png" width="600"><br>
+      <em> 하단 페이지 탭 리스트<br><mark>이미지 : BlackmagicDesign Homepage</mark> </em>
+    </td>
+  </tr>
+</table>
+
+**03. ㅇㅇ**
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
