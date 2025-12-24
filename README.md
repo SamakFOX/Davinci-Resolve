@@ -40,7 +40,7 @@
 &nbsp;&nbsp; - 기본적으로 UI,프로젝트,소스에는 <mark>영어와 하이픈,언더바</mark> 위주로 사용하는 것이 좋습니다.  
 &nbsp;&nbsp;&nbsp;&nbsp; (오류 방지, 해외 튜토리얼 습득 등 여러 사유, 특히 MAC의 경우 공백도 기호로 인식하므로 필수)  
 
-★ 설정  
+★ **설정** - `Ctrl + ,`  
 &nbsp;&nbsp; - 설정은 `User`와 `System`으로 나뉨  
 &nbsp;&nbsp; - User : 사용자 편의와 관련된 설정  
 &nbsp;&nbsp; - System : 다빈치 전반에 대한 설정  
@@ -53,12 +53,12 @@
 </table>
 <table>
   <tr><td align="center">System 설정</td></tr>
-  <tr><td align="center"><img src="" width="600"><br><em> '설정' 내 'Memory&GPU'탭 </em></td></tr>
-  <tr><td align="center"><img src="" width="600"><br><em> '설정' 내 'General'탭 </em></td></tr>
+  <tr><td align="center"><img src=""><br><em> '설정' 내 'Memory&GPU'탭 </em></td></tr>
+  <tr><td align="center"><img src=""><br><em> '설정' 내 'General'탭 </em></td></tr>
 </table>
 
 ▶ 프로젝트 생성  
-**01. Project Manager (프로젝트 매니저)**  
+**01. Project Manager (프로젝트 매니저)** - `Shift + 1`  
 &nbsp;&nbsp; : 다빈치리졸브 실행 시 초기메뉴로 프로젝트 매니저가 뜸  
 &nbsp;&nbsp; - 개인 작업인 경우 보통 `Local`(로컬)에서 선택하나, 팀 작업인 경우 `Network`(네트워크)나 `Cloud`(클라우드)를 통해 선택하게 됨  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㄴ 클라우드 : Studio 기능, 20부터 무료도 제한적으로 지원  
@@ -69,6 +69,31 @@
   <tr><td align="center">
     <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_NewProject.png" width="600"><br>
     <em> 프로젝트 윈도우 → 새 프로젝트생성 </em>
+  </td></tr>
+</table>
+
+**01-1. 프로젝트 설정** - `Shift + 9`  
+&nbsp;&nbsp; - 해상도, 프레임, 미디어캐시  
+&nbsp;&nbsp;&nbsp;&nbsp; ㄴ 캐시 자동 삭제는 <mark>20버전 이후에서 지원</mark>됨<sup>★</sup>  
+&nbsp;&nbsp; - 소스 스케일링  
+&nbsp;&nbsp; - 색 영역  
+&nbsp;&nbsp; - XML/EDL 관련  
+<table>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_ProjectSetting1.png"><br>
+    <em> Master Settings - 해상도 </em>
+  </td></tr>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_ProjectSetting2.png"><br>
+    <em> Master Settings - 캐시 </em>
+  </td></tr>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_ProjectSetting3.png"><br>
+    <em> Image Scaling </em>
+  </td></tr>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_ProjectSetting4.png"><br>
+    <em> Color Management </em>
   </td></tr>
 </table>
 
