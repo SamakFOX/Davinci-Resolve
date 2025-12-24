@@ -24,9 +24,9 @@
 |---|:---:|:---:|
 | 최대 해상도/프레임 | UHD 4K 60fps | 최대 32K / 120fps 지원 |
 | AI 기능 (매직 마스크 등) | 일부 제한 | 전체 |
-| 고급 노이즈 리덕션 | ❌ | ✔️ |
-| 10비트 / 8K 지원 | ❌ | ✔️ |
-| 멀티 GPU 가속 | ❌ | ✔️ |
+| 고급 노이즈 리덕션 | X | O |
+| 10비트 / 8K 지원 | X | O |
+| 멀티 GPU 가속 | X | O |
 | HDR & 프로 색보정 도구 | 기본 | 향상 버전 |
 | 협업/프로 워크플로 | 제한 | 협업위주 |
 
@@ -42,21 +42,17 @@
 
 ★ 설정  
 &nbsp;&nbsp; - 설정은 `User`와 `System`으로 나뉨  
-&nbsp;&nbsp; - User : 
-
+&nbsp;&nbsp; - User : 사용자 편의와 관련된 설정  
+&nbsp;&nbsp; - System : 다빈치 전반에 대한 설정  
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings1.png" width="600"><br>
-      <em> '설정' 내 'UI'탭 </em>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings2.png" width="600"><br>
-      <em> '설정' 내 'Save and Load'탭 </em>
-    </td>
-  </tr>
+  <tr><td align="center">User 설정</td></tr>
+  <tr><td align="center"><img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings1.png" width="600"><br><em> '설정' 내 'UI'탭 </em></td></tr>
+  <tr><td align="center"><img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Settings2.png" width="600"><br><em> '설정' 내 'Save and Load'탭 </em></td></tr>
+</table>
+<table>
+  <tr><td align="center">System 설정</td></tr>
+  <tr><td align="center"><img src="" width="600"><br><em> '설정' 내 'Memory&GPU'탭 </em></td></tr>
+  <tr><td align="center"><img src="" width="600"><br><em> '설정' 내 'General'탭 </em></td></tr>
 </table>
 
 ▶ 프로젝트 생성  
@@ -68,23 +64,19 @@
 &nbsp;&nbsp; - `New Folder`(아이콘) : 새 프로젝트<mark>폴더</mark> 생성 (되도록 영어로 작성)  
 &nbsp;&nbsp; - `Import/Export` : DRP(Davinci Resolve Project) 파일로 프로젝트 <mark>불러오기/내보내기</mark>  
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_NewProject.png" width="600"><br>
-      <em> 프로젝트 윈도우 → 새 프로젝트생성 </em>
-    </td>
-  </tr>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_NewProject.png" width="600"><br>
+    <em> 프로젝트 윈도우 → 새 프로젝트생성 </em>
+  </td></tr>
 </table>
 
 **02. Pages Tabs (페이지 탭)**  
 &nbsp;&nbsp; : 영상제작 전체 워크플로를 단계별로 구분해두어, 기능별 페이지 이동으로 쉽게 작업할 수 있도록 도와주는 하단 탭  
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Pages.png" width="600"><br>
-      <em> 하단 페이지 탭 리스트<br><mark>이미지 : BlackmagicDesign Homepage</mark> </em>
-    </td>
-  </tr>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_Pages.png" width="600"><br>
+    <em> 하단 페이지 탭 리스트<br><mark>이미지 : BlackmagicDesign Homepage</mark> </em>
+  </td></tr>
 </table>
 
 **03. ㅇㅇ**
