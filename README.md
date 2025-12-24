@@ -63,9 +63,9 @@
 **01. Project Manager (프로젝트 매니저)**  
 &nbsp;&nbsp; : 다빈치리졸브 실행 시 초기메뉴로 프로젝트 매니저가 뜸  
 &nbsp;&nbsp; - 개인 작업인 경우 보통 `Local`(로컬)에서 선택하나, 팀 작업인 경우 `Network`(네트워크)나 `Cloud`(클라우드)를 통해 선택하게 됨 (Studio 기능)  
-&nbsp;&nbsp; - `New Project` : 새 프로젝트 생성 (되도록 영어로 작성)  
-&nbsp;&nbsp; - `New Folder`(아이콘) : 새 프로젝트폴더 생성 (되도록 영어로 작성)  
-&nbsp;&nbsp; - `Import/Export` : DRP(Davinci Resolve Project) 파일로 프로젝트 불러오기/내보내기  
+&nbsp;&nbsp; - `New Project` : 새 <mark>프로젝트</mark> 생성 (되도록 영어로 작성)  
+&nbsp;&nbsp; - `New Folder`(아이콘) : 새 프로젝트<mark>폴더</mark> 생성 (되도록 영어로 작성)  
+&nbsp;&nbsp; - `Import/Export` : DRP(Davinci Resolve Project) 파일로 프로젝트 <mark>불러오기/내보내기</mark>  
 <table>
   <tr>
     <td align="center">
