@@ -107,6 +107,7 @@
 </table>
 
 **02-1. Media (미디어 페이지)**  
+<img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_PagesTab-1.png" width="70"/>  
 &nbsp;&nbsp; - 푸티지 인풋과 관리  
 &nbsp;&nbsp; - 미디어풀 내에서 폴더를 통한 관리  
 &nbsp;&nbsp; - 메타데이터 확인  
@@ -118,4 +119,41 @@
   </td></tr>
 </table>
 
-02-2. 
+★ 푸티지 임포트 시 Frame Rate가 다른 경우  
+&nbsp;&nbsp; - Change : 프로젝트 fps 설정을 '푸티지 fps'로 변경  
+&nbsp;&nbsp; - Don't Change : 프로젝트 fps 설정 변경 X  
+<table>
+  <tr><td align="center">
+    <img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_ImportSourcePopup.png"><br>
+    <em> fps 변경 여부 팝업 </em>
+  </td></tr>
+</table>
+
+
+**02-2. Cut (컷 페이지)**  
+<img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_PagesTab-2.png" width="70"/>  
+&nbsp;&nbsp; - 빠른 편집  
+&nbsp;&nbsp; - 자동/수동 씬 컷  
+
+**02-3. Edit (에딧 페이지)**  
+<img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_PagesTab-3.png" width="70"/>  
+&nbsp;&nbsp; - 영상 세부 편집  
+
+**02-4. Fusion (퓨전 페이지)**  
+<img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_PagesTab-4.png" width="70"/>  
+&nbsp;&nbsp; - 모션그래픽 & VFX  
+
+**02-5. Color (컬러 페이지)**  
+<img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_PagesTab-5.png" width="70"/>  
+&nbsp;&nbsp; - 전문 색보정  
+
+**02-6. Fairlight (페어라이트 페이지)**  
+<img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_PagesTab-6.png" width="70"/>  
+&nbsp;&nbsp; - 전문 오디오 편집  
+
+**02-7. Deliver (딜리버 페이지)**  
+<img src="https://github.com/SamakFOX/Davinci-Resolve/blob/main/image/DVC_PagesTab-7.png" width="70"/>  
+&nbsp;&nbsp; - 최종 출력  
+
+&nbsp;
+### ◆ 색보정
